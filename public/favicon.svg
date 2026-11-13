@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="15" fill="#090C0D" />
+  <rect
+    x="1.5"
+    y="1.5"
+    width="61"
+    height="61"
+    rx="13.5"
+    stroke="#DDE2DC"
+    stroke-opacity="0.18"
+    stroke-width="2.5"
+  />
+  <!-- Architectural C orbital arc in matte Silver (#DDE2DC) -->
+  <path
+    d="M48.75 20.3A17.5 17.5 0 1 0 48.75 43.7"
+    stroke="#DDE2DC"
+    stroke-width="5.2"
+    stroke-linecap="round"
+  />
+  <!-- Interlocking fluid W wave crossing the C spine and emerging through its opening in Signal (#B6D49B) -->
+  <path
+    d="M12.75 25.5C16.2 25.5 18.8 39 23.5 39C27.5 39 27.5 25 30.5 25C33.5 25 33.5 39 37.5 39C42 39 44.5 29 50.25 29"
+    stroke="#B6D49B"
+    stroke-width="4.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Intersection node connecting C and W -->
+  <circle cx="18.3" cy="32.2" r="3.4" fill="#B6D49B" />
+</svg>

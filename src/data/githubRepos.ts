@@ -1,0 +1,48 @@
+import type { GitHubRepo } from '../types/portfolio';
+
+export const FEATURED_GITHUB_REPOS: GitHubRepo[] = [
+  {
+    id: 1171976997,
+    name: 'snk-ng-bi-component',
+    description: null,
+    html_url: 'https://github.com/williamciva/snk-ng-bi-component',
+    language: 'JavaScript',
+    stargazers_count: 0,
+    forks_count: 0,
+    updated_at: '2026-11-13T17:06:06Z',
+    default_branch: 'main',
+  },
+  {
+    id: 621552727,
+    name: 'snk-react-bi-component',
+    description: null,
+    html_url: 'https://github.com/williamciva/snk-react-bi-component',
+    language: 'JavaScript',
+    stargazers_count: 0,
+    forks_count: 0,
+    updated_at: '2026-11-13T17:07:20Z',
+    default_branch: 'main',
+  },
+  {
+    id: 978247814,
+    name: 'snk_bypass_exploit',
+    description: null,
+    html_url: 'https://github.com/williamciva/snk_bypass_exploit',
+    language: 'Python',
+    stargazers_count: 0,
+    forks_count: 0,
+    updated_at: '2026-11-13T17:01:03Z',
+    default_branch: 'main',
+  },
+  {
+    id: 1003269861,
+    name: 'asteroid_python',
+    description: null,
+    html_url: 'https://github.com/williamciva/asteroid_python',
+    language: 'Python',
+    stargazers_count: 0,
+    forks_count: 0,
+    updated_at: '2025-06-18T19:19:38Z',
+    default_branch: 'main',
+  },
+];
